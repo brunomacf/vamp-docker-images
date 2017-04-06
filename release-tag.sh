@@ -95,6 +95,7 @@ tag vamp-zookeeper
 tag vamp-etcd
 tag vamp-redis
 tag vamp-consul
+tag vamp-mysql
 tag vamp-dcos
 tag vamp-docker
 tag vamp-kubernetes

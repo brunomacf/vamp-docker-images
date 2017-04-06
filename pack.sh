@@ -53,6 +53,7 @@ pack vamp-zookeeper
 pack vamp-etcd
 pack vamp-redis
 pack vamp-consul
+pack vamp-mysql
 pack vamp-dcos
 pack vamp-docker
 pack vamp-kubernetes
